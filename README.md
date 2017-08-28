@@ -9,7 +9,8 @@ ou mesmo novidades que queiram partilhar com a turma.
 
 Vamos ter o espirito de entreajuda uns com os outros.
 
-
+### NOTA:
+#### Nenhum ficheiro compactado deve ser adicionado a este projecto.
 
 Da turma para a turma.
 Obrigado!!
